@@ -2,7 +2,7 @@
 <h3 align="center">A tool for GITractCancer prediction.</h3>
 
 
-- 📫 How to reach me **rv636@snu.edu.in**
+- 📫 How to reach me **ashutosh.singh@snu.edu.in, rv636@snu.edu.in**
 
 <p align="left">
 </p>
